@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MVPFrame.iml" filepath="$PROJECT_DIR$/MVPFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GodQrCode.iml" filepath="$PROJECT_DIR$/GodQrCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
